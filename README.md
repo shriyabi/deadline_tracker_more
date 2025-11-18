@@ -46,11 +46,11 @@ Whether you're a student, teacher, employee, or simply someone tracking importan
 Here are short demonstrations of the app in action:
 
 **Selecting Calendars**
-![Demo Video 1: Selecting calendars to view and remove from dashboard.](select_calendars.gif)
+![Demo Video 1: Selecting calendars to view and remove from dashboard.](/select_calendars.gif)
 *Description: This GIF shows how the user can select desired calendars to view on their dashboard and remove them once done.*
 
 **Using AI Assignment Extraction**
-![Demo Video 2: Inputting assignments and getting events in a ready to add to Calendar format. ](ai_extractor.gif)
+![Demo Video 2: Inputting assignments and getting events in a ready to add to Calendar format. ](/ai_extractor.gif)
 *Description: This GIF shows how the user can input events, get them back in a ready-to-add format, and then add, edit, or delete events before final approval.*
 
 ---
@@ -68,23 +68,23 @@ Here are some screenshots showcasing the application's key features:
 ### Application Features Overview
 
 1.  **Navigation Bar**
-    ![Screenshot of Navigation Bar](step1.png)
+    ![Screenshot of Navigation Bar](/step1.png)
     *Description: This image displays the main navigation bar on the left side, providing links to key sections like the Dashboard, Calendar, and various Tools.*
 
 2.  **Dashboard View**
-    ![Screenshot of Dashboard](step2.png)
+    ![Screenshot of Dashboard](/step2.png)
     *Description: The application's dashboard, offering a centralized view of upcoming events, recent activities, and quick access to core features.*
 
 3.  **Calendar Management Tools**
-    ![Screenshot of Add/Edit/Delete Calendar Tool](step3.png)
+    ![Screenshot of Add/Edit/Delete Calendar Tool](/step3.png)
     *Description: An interface dedicated to managing calendar entries, featuring options to **Add, Edit, and Delete** calendars.*
 
 4.  **Gemma Text Input Interface**
-    ![Screenshot of Tool To input text into Gemma](step4.png)
+    ![Screenshot of Tool To input text into Gemma](/step4.png)
     *Description: A specialized tool designed for inputting text directly into the **Gemma AI model**, enabling event extraction.*
 
 5.  **Event Creation Form**
-    ![Screenshot of Adding Event Tool](step5.png)
+    ![Screenshot of Adding Event Tool](/step5.png)
     *Description: The form used for adding a new event to the calendar, where users can define event details such as title, date, time, and description.*
 
 ---
