@@ -10,7 +10,7 @@ Whether you're a student, teacher, employee, or simply someone tracking importan
 - [Quickstart Guide](#quickstart-guide)
 - [Features](#features)
 - [Demo Videos](#demo-videos)
-- [Architecture Diagram](#architecture-diagram)x
+- [Architecture Diagram](#architecture-diagram)
 - [Usage Examples](#usage-examples)
 - [FAQ](#faq)
 
@@ -23,7 +23,7 @@ Whether you're a student, teacher, employee, or simply someone tracking importan
 * This application interacts with your Google Calendar. You will be prompted to give authorization for the app to **modify your calendar**.
 
 **Access the application here:**
-[Deadline Manager](https://shriyabi.github.io/deadline_tracker/)
+[Deadline Manager](https://shriyabi.github.io/deadline_tracker_more/)
 
 1.  Click **Sign In** (green button at the top right).
 2.  Authorize the application to access your Google Calendar.
@@ -45,13 +45,13 @@ Whether you're a student, teacher, employee, or simply someone tracking importan
 
 Here are short demonstrations of the app in action:
 
-<!--**Selecting Calendars**
-![Demo Video 1: Selecting calendars to view and remove from dashboard.](demo/select_calendars.gif)
+**Selecting Calendars**
+![Demo Video 1: Selecting calendars to view and remove from dashboard.](select_calendars.gif)
 *Description: This GIF shows how the user can select desired calendars to view on their dashboard and remove them once done.*
 
 **Using AI Assignment Extraction**
-![Demo Video 2: Inputting assignments and getting events in a ready to add to Calendar format. ](demo/ai_extractor.gif)
-*Description: This GIF shows how the user can input events, get them back in a ready-to-add format, and then add, edit, or delete events before final approval.* -->
+![Demo Video 2: Inputting assignments and getting events in a ready to add to Calendar format. ](ai_extractor.gif)
+*Description: This GIF shows how the user can input events, get them back in a ready-to-add format, and then add, edit, or delete events before final approval.*
 
 ---
 
