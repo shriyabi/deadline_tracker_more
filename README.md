@@ -57,7 +57,7 @@ Here are short demonstrations of the app in action:
 
 ## Architecture Diagram
 
-![Architecture Diagram](demo/497_assignment.drawio.png)
+![Architecture Diagram](497_assignment.drawio.png)
 
 ---
 
